@@ -1,0 +1,3 @@
+DOM - Document object manager => butun oynada bita narsa ozgarsa ham hamma narsa qayta yuklanadi
+
+Vertual DOM - unda faqatgina bita osha ozgartirilgan narsa obyekt ozgaradi
